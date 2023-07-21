@@ -28,3 +28,7 @@ Follow this tutorial: https://www.sphinx-doc.org/en/master/tutorial/getting-star
 ## Customization
 
 Follow this tutorial: https://www.sphinx-doc.org/en/master/tutorial/first-steps.html
+
+## Build
+
+Follow the instructions: https://readthedocs.org/projects/readthedocs-headstart/
