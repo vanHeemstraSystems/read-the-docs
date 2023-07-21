@@ -22,3 +22,7 @@ You will be prompted to saet your timezone.
 ## Installation
 
 Follow this tutorial: https://www.sphinx-doc.org/en/master/tutorial/getting-started.html
+
+## Customization
+
+Follow this tutorial: https://www.sphinx-doc.org/en/master/tutorial/first-steps.html
