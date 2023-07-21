@@ -5,7 +5,7 @@ read-the-docs
 
 Create, host, and browse documentation.
 
-Based on "Read The Docs" at readthedocs.org
+Based on "Read The Docs" at https://readthedocs.org
 
 **WARNING**: See Sphinx build failing on act but succeeding on actions at https://github.com/nektos/act/issues/1853
 Do the following:
