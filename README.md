@@ -18,3 +18,7 @@ $ service cron stop && service cron start
 ```
 
 You will be prompted to saet your timezone.
+
+## Installation
+
+Follow this tutorial: https://www.sphinx-doc.org/en/master/tutorial/getting-started.html
