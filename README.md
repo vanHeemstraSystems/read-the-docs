@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/readthedocs-headstart/badge/?version=latest)](https://readthedocs-headstart.readthedocs.io/en/latest/?badge=latest)
+
 read-the-docs
 # Read The Docs
 
